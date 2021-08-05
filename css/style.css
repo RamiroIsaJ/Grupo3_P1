@@ -10,8 +10,7 @@
 
 
 .boton-suscribete-footer{
-    display: flex;
-    
+    display: flex; 
 }
 
 .card-img-size{
@@ -23,7 +22,6 @@
     flex-direction: column;
     align-items: center;
 }
-
 
 .h-img{
     height: 300px;
@@ -61,13 +59,12 @@
     border-radius: 5px;
     padding: 15px;
     width: 100%;
-
 }
+
 .card_duple1{
     display: flex;
     flex-direction: column;
-    align-items: center;
-    
+    align-items: center;   
 }
 
 #enviar{
@@ -90,13 +87,11 @@
 #boton {
     background: #e27e21;
     border-color: #e27e21;
-
 }
 
 .fas, .fab {
     color:#DC7A1E  ;
 }
-
 
 .form_{
     display: flex;
@@ -197,4 +192,5 @@
     .rob img{
         width: 90%;
     }
+
 }
